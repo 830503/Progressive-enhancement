@@ -32,3 +32,10 @@ table{
     color: rgb(40, 5, 65);
     font-size: 20px;
 }
+
+.villagers{
+    color: rgb(32, 8, 138);
+}
+.farmer{
+    color: rgb(212, 69, 12);
+}
