@@ -37,5 +37,28 @@ table{
     color: rgb(32, 8, 138);
 }
 .farmer{
-    color: rgb(212, 69, 12);
+    color: rgb(212, 105, 12);
 }
+header>h1{
+    background-color: yellow;
+}
+header+{
+    background-color: thistle;
+}
+.good{
+    text-transform: capitalize;
+    color:green;
+   
+}
+.bad{
+    text-transform: capitalize;
+    color: red;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+
