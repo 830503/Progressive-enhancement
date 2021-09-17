@@ -1,0 +1,22 @@
+body {
+    background-color: hsl(344, 31%, 90%);
+
+  }
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(40, 5, 65);
+    font-size: 20px;
+
+}
+a:link {
+    color: red;
+  }
+a:visited {
+    color: green;
+  }
+a:hover {
+    color: hotpink;
+  }
+a:active {
+    color: blue;
+  }
