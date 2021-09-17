@@ -6,6 +6,10 @@ body {
     width: 90%;
     margin:auto; 
   }
+  img{
+    float: left;
+    margin: 20px;
+  }
 p {
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-variant:normal;
@@ -60,5 +64,7 @@ table{
 
 }
 tr:nth-child(even) {background-color: #f2f2f2;}
-
+footer{
+    margin-bottom: 20px;
+}
 
