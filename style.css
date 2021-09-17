@@ -1,9 +1,14 @@
 body {
-    background-color: hsl(344, 31%, 90%);
-
+    background-image:url("image.jpeg");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 90%;
+    margin:auto; 
   }
 p {
     font-family:Georgia, 'Times New Roman', Times, serif;
+    font-variant:normal;
     color: rgb(40, 5, 65);
     font-size: 20px;
 
@@ -20,3 +25,10 @@ a:hover {
 a:active {
     color: blue;
   }
+
+table{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-variant:normal;
+    color: rgb(40, 5, 65);
+    font-size: 20px;
+}
